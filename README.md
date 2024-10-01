@@ -1,3 +1,4 @@
+# PRODIGY_CS_01
 This Python script demonstrates the Caesar Cipher, a simple encryption technique that encodes messages by shifting the letters of the alphabet by a specified number of positions. It can be used for both encryption and decryption.
 
 How it works:
@@ -15,4 +16,3 @@ The resulting message is then displayed as the output.
 
 
 
-# PRODIGY_CS_01
